@@ -1,0 +1,5 @@
+kafka-python-ng
+requests~=2.32.3
+kafka~=1.3.5
+jsonpickle
+pytest
