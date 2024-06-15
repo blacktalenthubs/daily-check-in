@@ -16,4 +16,3 @@ if __name__ == '__main__':
     n = [1,2,3,4]
     rst = sum(n)
     print(rst)
-    
