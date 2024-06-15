@@ -13,7 +13,7 @@ def sum(nums):
 
 
 if __name__ == '__main__':
-    n = [1,2,3,4]
+    n = [1,2,3,4,5]
     rst = sum(n)
     print(rst)
-    
+
